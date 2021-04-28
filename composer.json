@@ -1,0 +1,12 @@
+{
+    "name": "kyoya0819/dummy_json",
+    "authors": [
+        {
+            "name": "kyoya0819",
+            "email": "kyoya0819@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.14"
+    }
+}
